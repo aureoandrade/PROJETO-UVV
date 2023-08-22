@@ -1,0 +1,16 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+
+}
+
+h2{
+    color:darkgoldenrod;
+    text-decoration: underline;
+}
+
+button{
+    color: blueviolet;
+}
